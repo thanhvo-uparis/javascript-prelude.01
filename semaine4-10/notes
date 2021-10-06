@@ -1,0 +1,2 @@
+//Afficher la liste des base de données
+SHOW DATABASE;
